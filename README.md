@@ -9,7 +9,7 @@ REQUISTION SYSTEM - PYTHON PROJECT
 
 ## WHAT IT DOES:
 ----------------
-1. Collects staff information (date, ID, name).
+1. Collects staff information (name , date, staff_ID ).
 2. Creates a unique requisition ID.
 3. Asks how many items are needed.
 4. Takes name and price of each item.
